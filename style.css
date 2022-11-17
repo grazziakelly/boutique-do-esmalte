@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+body {
+   background-color: rgb(235, 181, 219);
+}
+
+.quimica {
+    border: 5px dotted rgb(0, 0, 0);
+    margin-left:  400px;
+}
+.quimica1 {
+    border: 5px dotted rgb(0, 0, 0);
+    
+}
+
+.igreja {
+    width: auto;
+    border: 5px dotted rgb(0, 0, 0);
+    margin-left: 300px;
+}
+
+h1 {
+    font-size: larger;
+    text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+h5{
+ text-align: center;
+}
+
+nav li{
+    display: inline;
+    margin: 20px;
+    font-size: 1em;
+}
+
+nav a {
+    color: rgb(0, 0, 0);
+
+}
+
+nav a:hover {
+    color: rgba(0, 0, 0, 0.555);
+}
+
+nav {
+    text-align: center;
+}
+ 
+p{
+    text-align: center;
+    font-size: larger;
+}
+
+li{
+   text-align: center; 
+}
